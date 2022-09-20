@@ -47,6 +47,22 @@ i {
     margin: 8px;
 }
 
+.fa-html5 {
+    color: #F36428;
+}
+
+.fa-css3-alt {
+    color: #3799D6;    
+}
+
+.fa-square-js {
+    color: #F7DE1F;
+}
+
+.fa-react {
+    color: #62DAFC;
+}
+
 .list {
     display: block;
     list-style: none;
