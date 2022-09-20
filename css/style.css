@@ -38,12 +38,14 @@ menu h2 {
     font-style: italic;
 }
 
-menu h3 {
+/* menu h3 {
     color: grey;
     font-style: italic;
+} */
+
+i {
+    margin: 7px;
 }
-
-
 
 .list {
     display: block;
